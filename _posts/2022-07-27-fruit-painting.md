@@ -8,4 +8,4 @@ hide: false
 comments: true
 ---
 
-![](/images/2022-07-27-fruit-painting/image1.JPG)
+![](/images/2022-07-27-fruit-painting/image3.png)
