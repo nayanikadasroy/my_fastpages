@@ -10,7 +10,7 @@ title: "Nayanika's"
 description: An easy to use blogging platform with support for Jupyter Notebooks.
 github_username: nayanikadasroy
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "my_fastpages"
+#github_repo: "my_fastpages"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
